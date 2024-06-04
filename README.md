@@ -9,7 +9,7 @@ Saqr is a real-time license plate recognition system designed to detect stolen o
 - Web Interface: User-friendly interface built with Streamlit for easy interaction and manageme.
 
 # Requirements
-# System Packages
+## System Packages
 - libgl1: OpenGL library used by OpenCV.
 
 # Python Packages
